@@ -1,9 +1,9 @@
-### Hi there 👋, my name is Jobaidul Islam
+# Hi there 👋, my name is Jobaidul Islam
 #### I am a student of Computer Science and Engineering (CSE)
 ![I am a student of Computer Science and Engineering (CSE)](/banner.png)
 
 
-Skills:  HTML / CSS
+Skills:  HTML / CSS / C
 
 - 🔭 I’m currently working on GitHub 
 - 🌱 I’m currently learning C programming language 
